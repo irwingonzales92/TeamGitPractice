@@ -9,13 +9,16 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (strong, nonatomic) IBOutlet UILabel *label;
 
 @end
 
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
+<<<<<<< HEAD
     
     // Hey guys, Let's talk through here
     NSLog(@"Okay - Irwin");
@@ -38,11 +41,19 @@
 
 
 
+=======
+    //Change label text here please!
+>>>>>>> a863e96f4f07eb601329561b4ebb2250b7a87af3
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (IBAction)onButtonTapped:(id)sender
+{
+    //Does stuff
 }
 
 @end
