@@ -27,14 +27,13 @@
 
     // Hey, I'm talking here...HAPPY!!?
     NSLog(@"Talk, talk, talk.");
-
-    NSLog(@"I have the rubber duck, I make the rules. :P - Yi-Chin");
-
-    // Hey, I'm talking here...HAPPY!!?
-    NSLog(@"Talk, talk, talk.");
     
     // Hi
     NSLog(@"Food");
+
+    NSLog(@"Let's get some merge conflicts all up in this biz.");
+
+
 
 }
 
