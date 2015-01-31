@@ -28,7 +28,7 @@
 
 - (IBAction)onButtonTapped:(id)sender
 {
-    self.label.text = @"We're Awesome";
+    self.label.text = @"We're super Awesome...winning! <<< 🐗 <<< ";
 }
 
 @end
