@@ -35,6 +35,9 @@
     
     // Hi
     NSLog(@"Food");
+    
+    // Bye
+    NSLog(@"K");
 
 }
 
