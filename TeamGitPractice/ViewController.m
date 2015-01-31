@@ -23,6 +23,11 @@
     
     //Mic check 1 2 1 2
 
+    NSLog(@"I have the rubber duck, I make the rules. :P - Yi-Chin");
+
+    // Hey, I'm talking here...HAPPY!!?
+    NSLog(@"Talk, talk, talk.");
+
 }
 
 - (void)didReceiveMemoryWarning {
