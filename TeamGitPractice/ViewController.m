@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     // Hey guys, Let's talk through here
+    NSLog(@"Okay - Irwin");
 
 }
 
