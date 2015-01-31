@@ -18,6 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"God damn storyboard!");
 }
 
 - (void)didReceiveMemoryWarning {
