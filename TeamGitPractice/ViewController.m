@@ -30,6 +30,9 @@
     
     // Hi
     NSLog(@"Food");
+    
+    // Bye
+    NSLog(@"K");
 
     NSLog(@"Let's get some merge conflicts all up in this biz.");
 
