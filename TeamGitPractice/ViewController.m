@@ -27,7 +27,7 @@
 
 - (IBAction)onButtonTapped:(id)sender
 {
-    //Does stuff
+    self.label.text = @"We're Awesome";
 }
 
 @end
