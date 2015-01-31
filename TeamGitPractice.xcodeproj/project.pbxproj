@@ -87,7 +87,7 @@
 				57632EF31A7C510000C6EA72 /* AppDelegate.m */,
 				57632EF81A7C510000C6EA72 /* ViewController.h */,
 				57632EF91A7C510000C6EA72 /* ViewController.m */,
-				57632EFB1A7C510000C6EA72 /* Main.storyboard */,
+				602809B61A7C59F000438A03 /* Storyboard */,
 				57632EFE1A7C510000C6EA72 /* Images.xcassets */,
 				57632F001A7C510100C6EA72 /* LaunchScreen.xib */,
 				57632EF51A7C510000C6EA72 /* TeamGitPractice.xcdatamodeld */,
@@ -120,6 +120,14 @@
 				57632F0C1A7C510100C6EA72 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		602809B61A7C59F000438A03 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				57632EFB1A7C510000C6EA72 /* Main.storyboard */,
+			);
+			name = Storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -416,6 +424,7 @@
 				57632F131A7C510100C6EA72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		57632F141A7C510100C6EA72 /* Build configuration list for PBXNativeTarget "TeamGitPracticeTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +433,7 @@
 				57632F161A7C510100C6EA72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

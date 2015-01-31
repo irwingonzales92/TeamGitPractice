@@ -20,6 +20,8 @@
     // Hey guys, Let's talk through here
     NSLog(@"Okay - Irwin");
 
+    NSLog(@"I have the rubber duck, I make the rules. :P - Yi-Chin");
+
     // Hey, I'm talking here...HAPPY!!?
     NSLog(@"Talk, talk, talk.");
 
